@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'Không đâu,nằm mơ đi :3',
     question:'Glucozo và Fructozo có cùng công thức phân tử,nhưng glucozo chỉ chọn Brom để phản ứng.Cũng như thế giới cả tỉ người,tớ chỉ iu mình cậu thui <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Tại vì tớ yêu cậu vãi ò <33333333',
+    reply: 'Tớ cũng yêu cậu vãi ò <33333333',
     mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Làm ngừi iu tớ nhé!!.',
     btnAccept: 'Oki,tớ đồng ý! <3',
